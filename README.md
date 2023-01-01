@@ -28,7 +28,7 @@
 </section>
  <section>
    <h2>How to delete specific extensions?</h2>
-   <p>If something go wrong, you can delete some specif extensions. Only you need to click on "Delete extension (name of the extension)" this will be delete the extension </p>
+   <p>If something go wrong, you can delete some specif extensions. You only need to click on "Delete extension (name of the extension)" this will be delete the extension </p>
      <img src="https://user-images.githubusercontent.com/114060853/210166232-9867c7ed-58fa-4452-9cf2-65c85b53984d.PNG" />
    <h2>How to delete all the extensions?</h2>
    <p>If you want to delete all the extension you only need to click on the button "Delete all the extensions"!</p>
