@@ -3,13 +3,12 @@
   <h2>What is sorted files?</h2>
   <p>Sorted Files is an application to sort the files in the download folder using the extension of their files. <br/>
     The application will create a folder on your desktop with the files that have the extensions that you have written. <br/>
-    Use sqlite to save the extensions you have written before, 
+    Use sqlite to save the extensions you have written before </p>
     <hr />
     <h2>IMPORTANT! <br /> </h2>
     <h3>FOR EACH TIME YOU USE THE APPLICATION YOU WILL HAVE TO WRITE A DIFFERENT FOLDER NAME WHERE THE FILES WILL BE SAVED, IT IS NOT NECESSARY TO CREATE A FOLDER BEFORE         USING THE APPLICATION BECAUSE IF THE FOLDER DOES NOT EXIST THE APPLICATION WILL CREATE IT </h3>
     <hr />
 </section>
-
 <section>
 <h2> How to add extensions? <h2/>
   <p>If you want to add extensions to the application you only need to type the name of the extensions, without the point at the start</p>
@@ -19,7 +18,6 @@
   <h3>Incorrect use</h3>
   <img src="https://user-images.githubusercontent.com/114060853/210166017-374ebbe4-14a3-480b-b412-bce1162c3ca4.PNG" />
 </section>
-
  <section>
    <h2>How to delete specific extensions?</h2>
    <p>If something go wrong, you can delete some specif extensions. Only you need to click on "Delete extension (name of the extension)" this will be delete the extension </p>
@@ -34,6 +32,8 @@
   <img src="https://user-images.githubusercontent.com/114060853/210166472-9d21c30c-2ce9-4c24-855f-74d573c9289e.PNG"/>
   <p>Once you have clicked on the button, a pop-up window will appear requesting that you write the name of the folder that will contain the files with the written extensions.</p>
   <img src="https://user-images.githubusercontent.com/114060853/210166503-652b6d07-62a4-41e7-aa6b-8177d59ab18f.PNG"/>
-
+  <p>When you have written it, you must confirm that you want to order the files.
+Once you click on accept, the program will start up and order the files in the download folder, when the program is finished you only need to go to your desktop and there will be a folder created with the name of the folder you have written.</p>
+  <img src="https://user-images.githubusercontent.com/114060853/210166661-37627c57-5d49-4dac-80fc-3d3eb1ba4154.PNG">
+  <h3>If you can't find the folder that contains all the files, go to the path C:\Users\Your User\Desktop\Folder name written in the application</h3>
 </section>
-
