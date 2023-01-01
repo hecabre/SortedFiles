@@ -8,5 +8,5 @@
   <h3>Correct Use</h3>
   <img src="https://imgur.com/mXqXqs3" />
   <h3>Incorrect use</h3>
-  <img src="https://imgur.com/F5Tqv1W" />
+  <img src="[https://imgur.com/F5Tqv1W](https://imgur.com/a/GdTR3tC)" />
 </section>
