@@ -1,5 +1,12 @@
 <h1>Sorted Files User Guide </h1>
 <section>
+  <h2>How to download the application?</h2>
+  <p>For download the application you need to download the repository or clone the respository</p>
+  <h3>If you want to clone the repository type the following command in console: git clone https://github.com/hecabre/SortedFiles</h3>
+  <h3>The executable is inside the output folder, click on the main folder and look for the file that has the name "main.exe", double click on it and the program will be executed.
+  <img src="https://user-images.githubusercontent.com/114060853/210166905-b2dfc77d-7563-4938-a2f6-64b86589f0bb.PNG"
+ </section>
+<section>
   <h2>What is sorted files?</h2>
   <p>Sorted Files is an application to sort the files in the download folder using the extension of their files. <br/>
     The application will create a folder on your desktop with the files that have the extensions that you have written. <br/>
@@ -37,10 +44,4 @@ Once you click on accept, the program will start up and order the files in the d
   <img src="https://user-images.githubusercontent.com/114060853/210166739-29c7eb26-6c3e-44f0-834d-2f6d97666b17.PNG"/>
   <h3>If you can't find the folder that contains all the files, go to the path C:\Users\Your User\Desktop\Folder name written in the application</h3>
 </section>
-<section>
-  <h2>How to download the application?</h2>
-  <p>For download the application you need to download the repository or clone the respository</p>
-  <h3>If you want to clone the repository type the following command in console: git clone https://github.com/hecabre/SortedFiles</h3>
-  <h3>The executable is inside the output folder, click on the main folder and look for the file that has the name "main.exe", double click on it and the program will be executed.
-  <img src="https://user-images.githubusercontent.com/114060853/210166905-b2dfc77d-7563-4938-a2f6-64b86589f0bb.PNG"
-  </section>
+
