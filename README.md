@@ -28,5 +28,12 @@
    <p>If you want to delete all the extension you only need to click on the button "Delete all the extensions"!</p>
    <img src="https://user-images.githubusercontent.com/114060853/210166348-463ca6a6-784a-434b-9c07-060c0fa3b475.PNG"/>
  </section>
+<section>
+  <h2>How to delete the files?</h2>
+  <p>Once you have written all the extensions of the files that you want to order, you just have to click on the Delete files button.</p>
+  <img src="https://user-images.githubusercontent.com/114060853/210166472-9d21c30c-2ce9-4c24-855f-74d573c9289e.PNG"/>
+  <p>Once you have clicked on the button, a pop-up window will appear requesting that you write the name of the folder that will contain the files with the written extensions.</p>
+  <img src="https://user-images.githubusercontent.com/114060853/210166503-652b6d07-62a4-41e7-aa6b-8177d59ab18f.PNG"/>
 
+</section>
 
