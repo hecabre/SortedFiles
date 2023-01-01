@@ -1,5 +1,13 @@
 <h1>Sorted Files User Guide </h1>
-
+<section>
+  <h2>What is sorted files?</h2>
+  <p>Sorted Files is an application to sort the files in the download folder using the extension of their files. <br/>
+    The application will create a folder on your desktop with the files that have the extensions that you have written. <br/>
+    Use sqlite to save the extensions you have written before, 
+    <center>IMPORTANT!</center>
+    <hr />
+    <h3>FOR EACH TIME YOU USE THE APPLICATION YOU WILL HAVE TO WRITE A DIFFERENT FOLDER NAME WHERE THE FILES WILL BE SAVED, IT IS NOT NECESSARY TO CREATE A FOLDER BEFORE         USING THE APPLICATION BECAUSE IF THE FOLDER DOES NOT EXIST THE APPLICATION WILL CREATE IT </h3>
+</section>
 <hr />
 <section>
 <h2> How to add extensions? <h2/>
