@@ -1,12 +1,5 @@
 <h1>Sorted Files User Guide </h1>
 <section>
-  <h2>How to download the application?</h2>
-  <p>For download the application you need to download the repository or clone the respository</p>
-  <h3>If you want to clone the repository type the following command in console: git clone https://github.com/hecabre/SortedFiles</h3>
-  <h3>The executable is inside the output folder, click on the main folder and look for the file that has the name "main.exe", double click on it and the program will be executed.
-  <img src="https://user-images.githubusercontent.com/114060853/210166905-b2dfc77d-7563-4938-a2f6-64b86589f0bb.PNG"
- </section>
-<section>
   <h2>What is sorted files?</h2>
   <p>Sorted Files is an application to sort the files in the download folder using the extension of their files. <br/>
     The application will create a folder on your desktop with the files that have the extensions that you have written. <br/>
@@ -16,6 +9,14 @@
     <h3>FOR EACH TIME YOU USE THE APPLICATION YOU WILL HAVE TO WRITE A DIFFERENT FOLDER NAME WHERE THE FILES WILL BE SAVED, IT IS NOT NECESSARY TO CREATE A FOLDER BEFORE         USING THE APPLICATION BECAUSE IF THE FOLDER DOES NOT EXIST THE APPLICATION WILL CREATE IT </h3>
     <hr />
 </section>
+<section>
+  <h2>How to download the application?</h2>
+  <p>For download the application you need to download the repository or clone the respository</p>
+  <h3>If you want to clone the repository type the following command in console: git clone https://github.com/hecabre/SortedFiles</h3>
+  <h3>The executable is inside the output folder, click on the main folder and look for the file that has the name "main.exe", double click on it and the program will be executed.
+  <img src="https://user-images.githubusercontent.com/114060853/210166905-b2dfc77d-7563-4938-a2f6-64b86589f0bb.PNG"
+ </section>
+
 <section>
 <h2> How to add extensions? <h2/>
   <p>If you want to add extensions to the application you only need to type the name of the extensions, without the point at the start</p>
