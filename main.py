@@ -1,3 +1,6 @@
+"""
+@author: hecabre <aaroncabrera046@gmail.com>
+"""
 import customtkinter
 import tkinter.messagebox
 import os
